@@ -11,4 +11,5 @@
 <meta name="keywords" content="spares, auto body parts, automotive.">
 <meta name="author" content="Rorisang ">
 
-References
+#References
+- xplodivity, 2023. how yo easily build an accordion with Javascript, html & css. [video online] Available at: < https://codesandbox.io/s/accordion-r3wk49?file=/index.html > [ Accessed 27 October 2026].
