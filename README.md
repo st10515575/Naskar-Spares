@@ -12,4 +12,5 @@
 <meta name="author" content="Rorisang ">
 
 #References
+-Codexalt, 2026. css image gallery hover effect:html & css. < https://youtu.be/iYNxPJ3oFTc?si=He9kn2cCOgGnJc2i > [Accessed 26 October 2026].
 - xplodivity, 2023. how yo easily build an accordion with Javascript, html & css. [video online] Available at: < https://codesandbox.io/s/accordion-r3wk49?file=/index.html > [ Accessed 27 October 2026].
