@@ -13,6 +13,8 @@
 
 #References 
 
+-Bro code, 2023. Build this image slider with Javascript.[video online] < https://youtu.be/749ta0nvj8s?si=Ah8WfAbiJhW1QwyA > [Accessed 29 October 2026].
+
 -Bro code, 2023. Learn css dropdown menus in 6 minutes.[video online] < https://youtu.be/VQWu4e6agPc?si=BJeVSKS7n6vb_OMN > [Accessed 28 October 2026].
 
 -Codexalt, 2026. css i mage gallery hover effect:html & css. [video online] < https://youtu.be/iYNxPJ3oFTc?si=He9kn2cCOgGnJc2i > [Accessed 26 October 2026].
